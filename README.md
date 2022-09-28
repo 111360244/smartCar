@@ -12,17 +12,20 @@ Figure 1:
 Exterior and interior views of the Smart Car demonstration platform.
 
 Figure 2:
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?)
 
  System architecture of the Smart Car demonstration platform.
 
 Figure 3:
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?>)
 
  The Smart Car’s configuration.
 
 
 Figure 4:
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?)
 
  Layout combination of the transparent windshield display
@@ -30,6 +33,7 @@ Figure 4:
 
 
 Figure 5:
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
 </div>
@@ -42,6 +46,7 @@ lower portion: driver’s vision field has been improved after turning on the ap
 <div align="center">
 
 Figure 6:
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
 
 </div>
