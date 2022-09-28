@@ -7,25 +7,28 @@ The smart car is a highly computerized automobile featuring ubiquitous computing
 <img src=https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?>
 
 Figure 1. Exterior and interior views of the Smart Car demonstration platform.
-</div>
 
-<div align="center">
+
+
 <img src=https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true>
 
 Figure 2. System architecture of the Smart Car demonstration platform.
-</div>
 
-<div align="center">
+
+
 <img src=https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true>
 
 Figure 3. The Smart Car’s configuration.
-</div>
 
-<div align="center">
+
+
+
 <img src=https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true>
 
 Figure 4. Layout combination of the transparent windshield display
-</div>
+
+
+
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
@@ -38,4 +41,4 @@ lower portion: driver’s vision field has been improved after turning on the ap
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
-
+</div>
