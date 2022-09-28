@@ -20,7 +20,7 @@ Figure 3. The Smart Car’s configuration.
 
 
 
-<img src=https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?>
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?)
 
 Figure 4. Layout combination of the transparent windshield display
 
