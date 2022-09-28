@@ -5,10 +5,8 @@ The smart car is a highly computerized automobile featuring ubiquitous computing
 
 <div align="center">
 <img src=https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?>
-</div>
-
 Figure 1. Exterior and interior views of the Smart Car demonstration platform.
-
+</div>
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
