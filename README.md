@@ -3,7 +3,7 @@ The smart car is a highly computerized automobile featuring ubiquitous computing
 
 
 
-<div class="content">
+<div align="center">
 <img src=https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?>
 </div>
 
